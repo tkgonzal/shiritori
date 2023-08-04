@@ -7,7 +7,7 @@ and each word must start with the last letter of the last word said.
 depth rules can be seen when running the program and in the RULES variable
 in Shiritori.hpp
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 */
 
 

@@ -3,7 +3,7 @@ TimeUpException.hpp
 -Declares and defines the TimeUpException class, an exception class meant to be
 thrown whenever the user takes to long in trying to play a word.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 */
 
 

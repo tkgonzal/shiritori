@@ -6,7 +6,7 @@ inherits from, wherein each exception is constructed with a string
 object and provides a message relating as to how that string was
 not accepted by the ShiritoriException class.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 */
 
 

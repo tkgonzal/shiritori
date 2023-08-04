@@ -1,2 +1,2 @@
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.16299.0
-Debug|Win32|C:\Users\tkwtp\Desktop\CS Portfolio\ShiritoriCPP\|
+PlatformToolSet=v143:VCToolArchitecture=Native32Bit:VCToolsVersion=14.36.32532:TargetPlatformVersion=10.0.22000.0:
+Debug|Win32|C:\Users\traven kyle\Desktop\proj\programming\test-pull\shiritori\shiritori\|

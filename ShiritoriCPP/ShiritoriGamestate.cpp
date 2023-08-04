@@ -4,7 +4,7 @@ ShiritoriGamestate.cpp
 a class meant to hold information pertaining to an English 
 variant of the word game Shiritori.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 */
 
 

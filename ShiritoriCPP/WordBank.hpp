@@ -6,7 +6,7 @@ as legal for a game of Shiritori or a container of words
 that have already been played in the game and thus 
 cannot be played again.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 */
 
 

@@ -5,7 +5,7 @@ pertaining to an English variant of the game Shiritori.
 -Declares also the Player struct, a structure meant to hold relevant player
 info for players in the game such as their name, status, and score.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 */
 
 

@@ -3,7 +3,7 @@ ShortWordException.hpp
 -Declares and defines the ShortWordException class, an exception meant to be thrown
 whenever a player attempts to play a word that is too short in a game of Shiritori.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 */
 
 

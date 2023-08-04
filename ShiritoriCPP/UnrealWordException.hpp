@@ -4,7 +4,7 @@ UnrealWordException.hpp
 be raised whenever the user tries to provide a word that cannot be found within 
 the game's WordBank, making it considered "not real".
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 */
 
 

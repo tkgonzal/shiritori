@@ -4,7 +4,7 @@ Shiritori.cpp
 to facilitate an English variant of the Japanese Word game, Shiritori. Rules
 of the game are explained within the RULES constant in Shiritori.hpp.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 */
 
 

@@ -4,7 +4,7 @@ WordBank.cpp
 to be considered legal in a game of Shiritori or have already been 
 played in the game, and its members.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 */
 
 

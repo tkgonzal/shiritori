@@ -4,7 +4,7 @@ MismatchException.hpp
 thrown whenever a player tries to play a word that does not start with the last 
 letter of the last word played.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 */
 
 
