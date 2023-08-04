@@ -3,7 +3,7 @@ Shiritori.hpp
 -Declares the Shiritori class, a class which facilitates a variant of the
 game Shiritori (a Japanese word game), and its members.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 */
 
 

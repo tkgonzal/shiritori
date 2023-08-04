@@ -4,7 +4,7 @@ RepeatWordException.hpp
 exception class meant to be raised whenever a player
 tries to play a word that has already been played.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 */
 
 
